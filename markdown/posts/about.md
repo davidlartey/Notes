@@ -11,7 +11,7 @@ I was born in [1991]()
 
 I'm from <a href="http://en.wikipedia.org/wiki/Prampram" target="_blank" title="">Prampram</a>, <a href="http://en.wikipedia.org/wiki/Ghana" title="Ghana - Wikipedia, the free encyclopedia">Ghana</a>, but spent the first three-quarters of my life in <a href="https://en.wikipedia.org/wiki/Bonny,_Nigeria">Bonny</a>, <a href="https://en.wikipedia.org/wiki/Nigeria" target="_blank" title="Nigeria - Wikipedia, the free encyclopedia">Nigeria</a>.
 
-I belive in God and I'm learning to live like Jesus Christ.
+I believe in God and I'm learning to live like Jesus Christ.
 
 I am a minimalist at heart.
 
@@ -25,7 +25,7 @@ Thanks.
 
 This blog run on an altered version of <a href="http://dropplets.com/" target="_blank" title="Welcome to an Easier Way to Blog">Dropplets</a>.
 
-The theme is Zen Habits' <a href="http://zenhabits.net/theme/" target="_blank">zh2</a> wordpress theme made for Dropplets.
+The theme is Zen Habits' <a href="http://zenhabits.net/theme/" target="_blank">zh2</a> Wordpress theme made for Dropplets.
 
-For a more fun - and less stable - tech experience checkout my playgroud: <a href="http://next.davidlartey.com" target="_blank">next.davidlartey.com</a>.
+For a more fun - and less stable - experience checkout my playground: <a href="http://next.davidlartey.com" target="_blank">next.davidlartey.com</a>.
 

@@ -1,0 +1,15 @@
+﻿Hi, I'm David Lartey.
+I was born in 1991
+I'm from Prampram, Ghana, but spent the first three-quarters of my life in Bonny, Nigeria.
+I believe in God and I'm learning to live like Jesus Christ.
+I am a minimalist at heart.
+I like creating things with code, occasionally with words: this blog, Soundcloud.
+I read, listen to new songs, watch Arsenal and daydream.
+Thanks.
+
+Colophon
+
+This blog run on an altered version of Dropplets.
+The theme is Zen Habits' zh2 WordPress theme made for Dropplets.
+For a more fun - and a less stable - experience checkout my playground: next.davidlartey.com.
+
