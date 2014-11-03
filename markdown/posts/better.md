@@ -14,4 +14,3 @@
 
 **What if we left things, people, places better than the way they were when they came into our lives?**
 
-**NB: This is a repost from one of my old blogs.**

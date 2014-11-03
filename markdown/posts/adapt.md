@@ -15,4 +15,4 @@ Currently, for me, there is the challenge of adapting to this new work schedule 
 
 **And I think its the same for everyone and everything in life. To fulfil one's purpose, you have to learn to adapt to changes in any direction of your life. Forwards or backwards.**
 
-**NB: This is a repost from my old blogs. I think I wrote it about a year or two ago.**
+**NB: This is a repost from one of my old blogs.**
