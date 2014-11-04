@@ -1,16 +1,17 @@
 # Better
 - David Lartey
 -
-- 2014/11/02
+- 2014/11/04
 -
-- draft
+- published
 
-﻿I had a conversation with a friend about the rest rooms. He made a comment along the line of: "I don't ever use the school's rest rooms because I don't know who used it last and how he left it."
+During a conversation with a friend about the rest rooms, he made a comment along the lines of "I don't ever use the public rest rooms because I don't$
 
-**But what if everyone who uses the rest room leaves them better than when they came in? How pleasant and healthy would it be?**
-**What if I leave every room I enter better than when I came in?**
-**What if I leave the life of every person I meet better than the when I met them?**
-**...**
+**But what if everyone who uses the public rest rooms leaves them better than when they came in? How pleasant and healthy would it be? How many more peo$**  
+**What if I leave every room I enter better than when I came in?**  
+**What if I leave the life of every person I meet better than the when I met them?**  
+**...**  
 
-**What if we left things, people, places better than the way they were when they came into our lives?**
+**What if we left people, places and things better than the way they were when they came into our lives?**  
 
+**NB: This is an edited repost from one of my old blogs.**
