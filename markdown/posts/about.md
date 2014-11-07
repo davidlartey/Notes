@@ -15,7 +15,7 @@ I believe in God and I'm learning to live like Jesus Christ.
 
 I am a minimalist at heart.
 
-I like creating things with <a href="#" title="My projects">code</a>, occasionally with words: this blog, <a href="https://soundcloud.com/davidlartey" target="_blank" title="My SoundCloud profile">soundcloud</a>.
+I like creating things with <a href="http://davidlartey.github.io" target="_blank" title="My projects">code</a>, occasionally with words: this blog, <a href="https://soundcloud.com/davidlartey" target="_blank" title="My SoundCloud profile">soundcloud</a>.
 
 I <a href="#" title="My reading list">read</a>, listen to new songs, watch <a href="https://arsenal.com/home" title="The Official Website of Arsenal Football Club">Arsenal</a> and daydream.
 
