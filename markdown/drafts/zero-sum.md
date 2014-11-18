@@ -7,3 +7,5 @@ Life itself isn't a zero-sum system. You might say the example I gave above happ
 I also think the people and businesses that are managed with this mentality of life not being a zero-sum system are the ones that end up as successful.
 
 All I am trying to say is that no one has to fall for you to stand, no one has to fail for you to succeed. And you don't have to fall for someone to stand, or fail for someone to succeed. So live your life, do what you have to do and leave the rest to God. **#LifeIsBeautiful**
+
+**NB: This is a repost from one of my old blogs.**

@@ -8,3 +8,5 @@ No one cares about what you'll offer them sometime in the future.
 In fact, no one cares about any of your journeys until they see you at the destination. People, me, you, them, everybody cares about NOW!
 
 **So for the umpteenth time, stop talking and start doing. Except off course you are at the talking stage of your doings.**
+
+**NB: This is a repost from one of my old blogs.**
