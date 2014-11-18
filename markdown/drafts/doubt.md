@@ -10,3 +10,5 @@ Fast forward few more years to the turn of the century and this time everyone be
 Even in Jesus' time, the difference between those that were impacted by His message and those usually referred to as "teachers of the law" who weren't was doubt. One group doubted what they knew - if they even knew - while the other always judged His message in the light of what they knew. And again we know now that went too.
 
 **Doubt can sometimes make you better**
+
+**NB: This is a repost from one of my old blogs.**
