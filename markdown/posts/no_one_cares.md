@@ -1,4 +1,10 @@
 #No One Cares
+- David Lartey
+-
+- 2014/11/18
+-
+- published
+
 Dude, let's face reality:  
 No one cares about what you want to do.  
 No one cares about the songs you would write one day or you've written and not sang to anyone.  

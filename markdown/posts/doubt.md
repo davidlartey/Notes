@@ -1,4 +1,9 @@
 #Doubt
+- David Lartey
+-
+- 2014/11/18
+-
+- published
 
 A few decades ago people believed that the earth was flat. That belief helped them stay together because everyone was scared of falling off the earth.  
 Fast forward a few more years and evidence became available that the earth wasn't flat but people still held on to their old beliefs. And the ones that dared to accept this new knowledge had to pay dearly. Why? Because, they couldn't **doubt**.

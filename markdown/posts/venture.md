@@ -1,4 +1,9 @@
 #Venture 
+- David Lartey
+-
+- 2014/11/18
+-
+- published
 
 >> "Vision is not enough; it must be combined with venture. It is not enough to stare up the steps; we must step up the stairs."   
 ~ Vaclav Havel

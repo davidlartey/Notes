@@ -1,3 +1,10 @@
+#Zero-Sum
+- David Lartey
+-
+- 2014/11/18
+-
+- published
+
 A few weeks ago I watched an interview Mark Zuckerberg gave at a conference and something stood out for me. He said he believes Facebook is not in a "zero-sum" system.
 
 Whats a zero-sum system? Its a system where everything must always add up to zero. An increase in one side must result in or be a result of a decrease on the other side of the system. For example, in a company with a fixed number of employees, for someone to get a promotion, some other person needs to be demoted or worse still, fired. So what he was saying is that for Facebook to "succeed" no other company has to fail.
