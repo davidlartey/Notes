@@ -12,7 +12,7 @@ Doubt makes you think out of the box. It delivers you from ignorance. It gives u
 
 Fast forward few more years to the turn of the century and this time everyone believed we had reached the end in what phones would be able to do. Well, that was also true until Steve Jobs doubted it all and we know how it went.
 
-Even in Jesus' time, the difference between those that were impacted by His message and those usually referred to as "teachers of the law" who weren't was doubt. One group doubted what they knew - if they even knew - while the other always judged His message in the light of what they knew. And again we know now that went too.
+Even in Jesus' time, the difference between those that were impacted by His message and those usually referred to as "teachers of the law" who weren't was doubt. One group doubted what they knew - if they even knew - while the other always judged His message in the light of what they knew. And again we know how that went too.
 
 **Doubt can sometimes make you better**
 

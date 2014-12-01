@@ -23,9 +23,9 @@ Thanks.
 
 ###Colophon
 
-This blog run on an altered version of <a href="http://dropplets.com/" target="_blank" title="Welcome to an Easier Way to Blog">Dropplets</a>.
+This blog runs on an altered version of <a href="http://dropplets.com/" target="_blank" title="Welcome to an Easier Way to Blog">Dropplets</a>.
 
-The theme is Zen Habits' <a href="http://zenhabits.net/theme/" target="_blank">zh2</a> Wordpress theme made for Dropplets.
+The theme is Zen Habits' <a href="http://zenhabits.net/theme/" target="_blank">zh2</a> Wordpress theme altered for Dropplets.
 
 For a more fun - and less stable - experience checkout my playground: <a href="http://next.davidlartey.com" target="_blank">next.davidlartey.com</a>.
 
