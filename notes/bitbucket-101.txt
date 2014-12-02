@@ -1,2 +1,42 @@
 Bitbucket 101 (bitbucket.org)
 source: https://confluence.atlassian.com/display/BITBUCKET/Bitbucket+101
+
+* Bitbucket is a code hosting website. It supports two distributed version control systems: Git and Mercurial. (GitHub) is a more popular code hosting website.
+* Git is a distributed - entire codebase resides on each developers computer - version control system.
+* Repository is a project being hosted on git.
+
+Prerequisits
+* Git (installation on all platforms)
+* Bitbucket account.
+  - Signup (https://bitbucket.org/account/signup/)
+  - NB: username field would become part of git urls for all your repositories
+  - NB: Don't forget to confirm your email address.
+* Create Repository.
+  - Login
+  - Click the create button at the top of the page and enter details on the 'Create repository page'
+  - NB: Repositories are either private or public. Bitbucket allows you
+  - Select 'Git' for repository type.
+* Explore new Repository
+  - Sidebar
+  - Settings
+
+* Making your first change
+  - cloning from remote
+  - Making changes
+  - commiting
+  - pushing to remote
+  - pulling changes locally
+  - NB: You can also create a file on bitbucket and pull in the changes.
+
+* Working with Git branches
+  - A branch is a new line line of development, a new copy of your codes. You use this for working on bug fixes, enhancements, new features, etc outside of the master branch. After working, you merge the changes into the master branch and have all your changes.
+  -> git branch new-branch-name
+  -> git checkout new-branch-name
+  - Make your changes and commit them using >git commit -m "Commit message"
+  -> git checkout master
+  -> git merge new-branch-name (would bring the changes made on new-branch-name branch into master)
+  -> git branch -d new-branch-name (Delete branch with changes for organisation-nerds)
+
+* Additional stuffs on BitBucket
+  - Issue tracking. (creating, editing, closing)
+  - Wiki
