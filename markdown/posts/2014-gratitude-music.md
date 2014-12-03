@@ -5,19 +5,25 @@
 - 
 - published
 
+
 It has been another year of great music, this is me showing my gratitude for them. Especially these few.
 
 ###<a href="https://en.wikipedia.org/wiki/Rivers_in_the_Wasteland" target="_blank">Rivers in the Wasteland</a> ~ NEEDTOBREATHE
 > I'm the first one in line to die when the calvary comes  
 
-I first heard <a href="#" target="_blank">Difference Maker</a> and <a href="#" target="_blank">Multiplied</a> but ended up loving every track on the album.  
-Through out the year, the album has been a source of rememberance of God's love and presence during trying times - even when I'm unworthy of it.  
+I first heard <a href="https://www.youtube.com/watch?v=MzuEFN-blcw" target="_blank">Difference Maker</a> and <a href="https://www.youtube.com/watch?v=tMms-rlV2hk" target="_blank">Multiplied</a> but ended up loving every track on the album.
+
+Through out the year, the album has been a source of rememberance of God's love and presence during trying times - even when I'm unworthy of it.
+
 
 ###<a href="https://en.wikipedia.org/wiki/Anomaly_(Lecrae_album)" target="_blank">Anomaly</a> ~ Lecrae
 If you've been called weird before, this album is for you.  
-For me, the album is about "facing your fears and be that someone different." You don't always see people coming out with the fears they have - including me, I've got loads of them - so when someone does, it's reassuring. Not to gain satisfaction but inspiration knowing someone is/has been on this journey before.  
+For me, the album is about "facing your fears and be that someone different." You don't always see people coming out with the fears they have - including me, I've got loads of them - so when someone does, it's reassuring. Not to gain satisfaction but inspiration knowing someone is/has been on this journey before.
+
 One fear he touched is of *<a href="https://www.biblegateway.com/passage/?search=1+Corinthians+9:27" target="_blank">pushin' people right over the ledge [but] buckle under pressure.</a>* That fear of doing everything right but make a mistake that negates all. I pray - as he does - that God gives me the grace and strength to make it to the end.  
+
 <a href="https://twitter.com/hashtag/Anomaly?src=hash" target="_blank">See other Anomalies</a>
+
 
 ###<a href="https:www.youtube.com/watch?v=dZ49_ZFFY88" target="_blank">Amazing Grace ~ Phil Wickham
 > This is amazing Grace, this is unfailing love  
