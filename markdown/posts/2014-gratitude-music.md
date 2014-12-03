@@ -27,8 +27,10 @@ One fear he touched is of _<a href="https://www.biblegateway.com/passage/?search
 
 
 ###<a href="https:www.youtube.com/watch?v=dZ49_ZFFY88" target="_blank">Amazing Grace</a> ~ Phil Wickham
-> This is amazing Grace, this is unfailing love  
-> That You will take my place, that you will bear my cross...
+> This is amazing Grace  
+> This is unfailing love  
+> That You will take my place  
+> that you will bear my cross.  
 
 Those lines say it all.
 
