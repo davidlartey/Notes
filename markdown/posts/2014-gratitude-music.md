@@ -18,6 +18,7 @@ Through out the year, the album has been a source of rememberance of God's love 
 
 ###<a href="https://en.wikipedia.org/wiki/Anomaly_(Lecrae_album)" target="_blank">Anomaly</a> ~ Lecrae
 If you've been called weird before, this album is for you.  
+
 For me, the album is about "facing your fears and be that someone different." You don't always see people coming out with the fears they have - including me, I've got loads of them - so when someone does, it's reassuring. Not to gain satisfaction but inspiration knowing someone is/has been on this journey before.
 
 One fear he touched is of *<a href="https://www.biblegateway.com/passage/?search=1+Corinthians+9:27" target="_blank">pushin' people right over the ledge [but] buckle under pressure.</a>* That fear of doing everything right but make a mistake that negates all. I pray - as he does - that God gives me the grace and strength to make it to the end.  
@@ -25,7 +26,7 @@ One fear he touched is of *<a href="https://www.biblegateway.com/passage/?search
 <a href="https://twitter.com/hashtag/Anomaly?src=hash" target="_blank">See other Anomalies</a>
 
 
-###<a href="https:www.youtube.com/watch?v=dZ49_ZFFY88" target="_blank">Amazing Grace ~ Phil Wickham
+###<a href="https:www.youtube.com/watch?v=dZ49_ZFFY88" target="_blank">Amazing Grace</a> ~ Phil Wickham
 > This is amazing Grace, this is unfailing love  
 > That You will take my place, that you will bear my cross...
 
