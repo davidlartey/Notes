@@ -1,0 +1,11 @@
+I recently started giving more atention to Python programming language. Personally I believe that the way to learn is to do, so I had to build something if I'll really understand the language.
+Its been fun so far and one of the things is a static site generator. This site was generated using it.
+I'm calling it Flassgee (FlaSSGee) standing for Flask Static Site Generator.
+
+The codes for it can be found here
+
+How to install.
+
+How to use.
+- Markdown format
+- Git submodule 
